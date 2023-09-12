@@ -6,8 +6,8 @@
 - Retinol, Azelic Acid and Zinc Sulfate
   
 ### File info:
--Comparing Market Foundations Coverage Claims V.S Effective coverage.docx - Data Story
+- Comparing Market Foundations Coverage Claims V.S Effective coverage.docx - Data Story
 - MNP Chemical List 2023 05 15 V2.xlsx - Database of formulas
 - tableau dashboard - Interactive dashboard created in Tableau*
 - ____.ipynb - Data analysis*
-- ___.sqbpro - SQL analysi*
+- ___.sqbpro - SQL analysis*
